@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>个人网站001</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+   <div style="
+    background-color: #f1f1f1;
+    text-align: center;
+    padding:40px;
+    ">
+     <img src='https://p1.ssl.qhimg.com/t0183ae094bab6a3a71.png' alt="我的" width="80px" height="80px">
+   <p>欢迎来到我的网站</p>
+   </div>
+   <div style="
+     max-width:700px;
+     margin:30px auto;
+     padding:15px;
+     line-height:1.7;
+     color:green;
+   ">
+     <h2>推荐书单</h2>
+     <p>《素食者》</p>
+     <p>《明亮的夜晚》</p>
+     <p>《厌女》</p>
+   </div>
+   <div style="
+    background-color:#f1f1f1;
+    text-align:center;
+    padding:40px;
+    front-size:12px;
+    ">
+    <p>我的网站</p>
+    <a href="https://weibo.com/u/7871567571">链接</div>
+  </body>
+</html>
